@@ -1,0 +1,16 @@
+Genus,pH(optimun),min,max
+Anaerobaculum(1),5.4-8.7 (6.6-7.6),5.4,8.7
+Anaerobaculum(2),5.4-8.7 (6.6-7.6),6.6,7.6
+Aminobacterium,6.6-8.5 (7.3),6.6,8.5
+Aminomonas,6.7-8.3 (7.5),6.7,8.3
+Dethiosulfovibrio(1),5.5-8.8 (6.5-7.0),5.5,8.8
+Dethiosulfovibrio(2),5.5-8.8 (6.5-7.0),6.5,7
+Thermoanaerovibrio,4.5-8.0 (7.3),4.5,8
+Halothermothrix,6.5-7.0,6.5,7
+Halocella,7,7,7
+Halanaerobium,6.1-7.5,6.1,7.5
+Sporobacterium,7.2,7.2,7.2
+Parasporobacterium,6.5-7,6.5,7
+Sporobacter,6.7-7.2,6.7,7.2
+Eubacterium,7.4,7.4,7.4
+Sporotomaculum,7.3-7.6,7.3,7.6

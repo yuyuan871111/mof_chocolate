@@ -1,0 +1,7 @@
+1. Some genus would be separated to two parts, which represents that they are two different results from the two different scientists. 
+For example: Anaerobaculum : 5.4-8.7 (6.6-7.6)
+would be separated to
+Anaerobaculum(1) : 5.4-8.7
+Anaerobaculum(2) : 6.6-7.6
+
+2. 'Cell size width(um)' only can be adjusted up to 5. If the value is larger than 1, it doesn't mean the precise value but the value larger than 1 .

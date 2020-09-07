@@ -1,0 +1,177 @@
+{
+  "Aliphatic hydrocarbonsg": [
+    {
+      "+": ["Micrococcus"],
+      "-": ["Planococcus"],
+      "variable": []
+    }
+  ],
+  "Catalase": [
+    {
+      "+": ["Brochothrix", "Kurthia", "Listeria", "Corynebacterium", "Bacillus", "Brevibacillus", "Paenibacillus", "Sporosarcina", "Alkalibacllus", "Cerasibacillus", "Filobacillus", "Gracilibacillus", "Halobacillus", "Lentibacillus", "Marinococcus", "Oceanobacillus", "Paraliobacillus", "Pontibacillus", "Saccharococcus", "Tenuibacillus", "Thalassobacillus", "Virgibacillus", "Alloiococcus"],
+      "-": ["Erysipelothrix", "Amphibacillus", "Anaerovirgula", "Clostridium", "Desulfotomaculum", "Sporolactobacillus", "Tindallia", "Lactobacillus", "Halolactibacillus", "Allofustis", "Alkalibacterium", "Atopostipes", "Dolosigranulum", "Marilactibacillus"],
+      "variable": ["Anoxybacillus", "Geobacillus"]
+    }
+  ],
+  "Chemolithotrophic growth": [
+    {
+      "+": ["Ammonifex"],
+      "-": ["Thermanaeromonas", "Thermoanaerobacter", "Thermovenabulum"],
+      "variable": ["Caldanaerobacter"]
+    }
+  ],
+  "CO32-  requirement": [
+    {
+      "+": [],
+      "-": ["Alkaliphilus", "Amphibacillus", "Anaerovirgula", "Bacillus", "Clostridium", "Sporolactobacillus", "Tindallia"],
+      "variable": ["Anoxybacillus", "Desulfotomaculum"]
+    }
+  ],
+  "Decarboxylation of succinate": [
+    {
+      "+": ["Veillonella"],
+      "-": ["Anaeroglobus", "Megasphaera", "Acidaminococcus"],
+      "variable": []
+    }
+  ],
+  "Dextran from sucrose": [
+    {
+      "+": [],
+      "-": ["Carnobacterium", "Pediococcus"],
+      "variable": ["Leuconostoc", "Weissella", "Homofermentative ovoid-shaped LAB (Enterococcus)", "Homofermentative Lactobacillus", "Heterofermentative Lactobacillus"]
+    }
+  ],
+  "Dichotomously branched sporophores": [
+    {
+      "+": ["Thermoflavimicrobium"],
+      "-": ["Thermoactinomyces", "Laceyella", "Mechercharimyces", "Planifilum", "Seinonella", "Shimazuella"],
+      "variable": []
+    }
+  ],
+  "Gas production": [
+    {
+      "+": ["Megasphaera", "Veillonella", "Acidaminococcus"],
+      "-": ["Anaeroglobus"],
+      "variable": []
+    }
+  ],
+  "Gas production(glucose(CO2))": [
+    {
+      "+": ["Leuconostoc", "Weissella", "Heterofermentative Lactobacillus"],
+      "-": ["Homofermentative ovoid-shaped LAB (Enterococcus)", "Homofermentative Lactobacillus", "Pediococcus"],
+      "variable": ["Carnobacterium"]
+    }
+  ],
+  "Gas production(glucose)": [
+    {
+      "+": ["Heterofermentative Lactobacillus", "Leuconostoc", "Weissella"],
+      "-": ["Paralactobacillus", "Homofermentative Lactobacillus", "Marinilactibacillus"],
+      "variable": []
+    }
+  ],
+  "Gram reaction": [
+    {
+      "+": ["Peptostreptococcus", "Tepidibacter", "Anaerococcus", "Finegoldia", "Gallicola", "Helcococcus", "Micrococcus", "Peptoniphilus", "Sedimentibacter", "Sporanaerobacter", "Anoxybacillus", "Alkaliphilus", "Amphibacillus", "Anaerovirgula", "Sporolactobacillus", "Alkalibacllus", "Cerasibacillus", "Gracilibacillus", "Halobacillus", "Halolactibacillus", "Marinococcus", "Oceanobacillus", "Paraliobacillus", "Pontibacillus", "Saccharococcus", "Tenuibacillus", "Thalassobacillus", "Virgibacillus"],
+      "-": ["Filifactor", "Filobacillus"],
+      "variable": ["Tindallia", "Bacillus", "Clostridium", "Desulfotomaculum", "Geobacillus", "Lentibacillus"]
+    }
+  ],
+  "H2-CO2 autotrophic growth": [
+    {
+      "+": ["Acetobacterium"],
+      "-": ["Pseudoramibacter"],
+      "variable": []
+    }
+  ],
+  "Homoacetogenic metabolism": [
+    {
+      "+": ["Acetohalobium", "Natroniella"],
+      "-": ["Halanaerobium", "Halocella", "Halothermothrix", "Halobacteroides", "Halanaerobacter", "Orenia", "Selenihalanaerobacter", "Sporohalobacter"],
+      "variable": []
+    }
+  ],
+  "Motility": [
+    {
+      "+": ["Acetanaerobacterium", "Clostridium.cellulosi", "Ethanoligenens", "Selenomonas", "Succinispira", "Dethiosulfovibrio", "Thermoanaerovibrio", "Alkaliphilus", "Amphibacillus", "Anaerovirgula", "Bacillus", "Clostridium", "Sporolactobacillus", "Listeria", "Kurthia", "Planococcus", "Sporosarcina", "Planomicrobiumb", "Alkalibacllus", "Gracilibacillus", "Marinococcus", "Oceanobacillus", "Paraliobacillus", "Pontibacillus", "Tenuibacillus", "Thalassobacillus", "Virgibacillus", "Alkalibacterium", "Desemzia", "Marinilactibacillus", "Sporobacterium", "Sporobacter", "Sporotomaculum"],
+      "-": ["Anaerotruncus", "Clostridium.leptum", "Clostridium.sporosphaeroides", "Faecalibacterium", "Ruminococcus", "Subdoligranulum", "Mitsuokella", "Bacteroides", "Prevotella", "Porphyromonas", "Eikenella", "Hallella", "Phascolarctobacterium", "Succiniclasticum", "Acidaminococcus", "Aminomonas", "Synergistes", "Brochothrix", "Erysipelothrix", "Lactobacillus", "Micrococcus", "Saccharococcus", "Paralactobacillus", "Atopostipes", "Isobaculum", "Leuconostoc", "Pilibacter", "Weissella", "Parasporobacterium", "Eubacterium"],
+      "variable": ["Anaerofilum", "Anaerobaculum", "Aminobacterium", "Anoxybacillus", "Desulfotomaculum", "Tindallia", "Geobacillus", "Halobacillus", "Lentibacillus"]
+    }
+  ],
+  "NH4  from arginine": [
+    {
+      "+": ["Allofustis", "Isobaculum", "Marinilactibacillus"],
+      "-": ["Paralactobacillus", "Atopostipes", "Desemzia", "Leuconostoc"],
+      "variable": []
+    }
+  ],
+  "Oxidase": [
+    {
+      "+": ["Halobacillus", "Saccharococcus", "Tenuibacillus", "Virgibacillus"],
+      "-": ["Amphibacillus", "Anaerovirgula", "Clostridium", "Desulfotomaculum", "Sporolactobacillus", "Tindallia", "Alkalibacllus", "Filobacillus", "Halolactibacillus", "Marinococcus", "Thalassobacillus"],
+      "variable": ["Anoxybacillus", "Bacillus", "Geobacillus", "Lentibacillus", "Oceanobacillus", "Pontibacillus"]
+    }
+  ],
+  "Oxidation of amino acids in coculture with hydrogen scavenging methanogens": [
+    {
+      "+": ["Aminobacterium", "Aminomonas", "Synergistes", "Thermoanaerovibrio"],
+      "-": ["Anaerobaculum", "Dethiosulfovibrio"],
+      "variable": []
+    }
+  ],
+  "Peptides, amino acids as main energy source": [
+    {
+      "+": ["Acidaminococcus"],
+      "-": ["Phascolarctobacterium", "Succiniclasticum", "Succinispira"],
+      "variable": []
+    }
+  ],
+  "Phosphatidyl ethanolamine": [
+    {
+      "+": ["Planococcus", "Sporosarcina", "Planomicrobiumb"],
+      "-": ["Micrococcus"],
+      "variable": []
+    }
+  ],
+  "Saccharolytic": [
+    {
+      "+": ["Mitsuokella", "Bacteroides", "Prevotella", "Selenomonas", "Hallella"],
+      "-": ["Porphyromonas", "Eikenella"],
+      "variable": []
+    }
+  ],
+  "Sphaeroplast formation": [
+    {
+      "+": ["Halocella", "Halobacteroides", "Halanaerobacter", "Halonatronum", "Natroniella", "Sporohalobacter"],
+      "-": ["Halanaerobium", "Orenia"],
+      "variable": []
+    }
+  ],
+  "Stickland reaction": [
+    {
+      "+": [],
+      "-": ["Halobacteroides", "Halonatronum", "Natroniella", "Selenihalanaerobacter"],
+      "variable": ["Halanaerobacter"]
+    }
+  ],
+  "Thermophily": [
+    {
+      "+": ["Halothermothrix"],
+      "-": ["Halanaerobium", "Halocella", "Halobacteroides", "Acetohalobium", "Halanaerobacter", "Natroniella", "Orenia", "Selenihalanaerobacter", "Sporohalobacter"],
+      "variable": ["Halonatronum"]
+    }
+  ],
+  "Utilization of carbohydrates": [
+    {
+      "+": ["Anaerobaculum", "Thermoanaerovibrio"],
+      "-": ["Aminobacterium", "Aminomonas", "Dethiosulfovibrio", "Synergistes"],
+      "variable": []
+    }
+  ],
+  "Yellow-orange pigment": [
+    {
+      "+": ["Planococcus", "Planomicrobiumb"],
+      "-": ["Sporosarcina", "Micrococcus"],
+      "variable": []
+    }
+  ]
+}
