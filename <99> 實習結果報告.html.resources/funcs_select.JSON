@@ -1,0 +1,239 @@
+{
+  "Aerial mycelium": [
+    {
+      "None": ["Planifilum"],
+      "White": ["Thermoactinomyces", "Laceyella", "Mechercharimyces", "Seinonella", "Shimazuella"],
+      "Yellow": ["Thermoflavimicrobium"]
+    }
+  ],
+  "Carbon sources": [
+    {
+      "3,4,5-Trimethoxybenzoate": ["Sporobacterium", "Parasporobacterium", "Sporobacter"],
+      "ferulate": ["Sporobacterium", "Parasporobacterium", "Sporobacter"],
+      "5-hydroxyvanillate": ["Parasporobacterium"],
+      "3,4,5-trimethoxyphenylpropionate": ["Sporobacterium"],
+      "3-Hydroxybenzoate": ["Sporotomaculum"],
+      "2,3-dimethoxybenzoate": ["Sporobacterium"],
+      "pyrogallol": ["Sporobacterium", "Eubacterium"],
+      "gallate": ["Sporobacterium", "Eubacterium"],
+      "vanillate": ["Sporobacterium", "Sporobacter"],
+      "3,4-dimethoxybenzoate": ["Sporobacterium"],
+      "quercetin": ["Sporobacterium"],
+      "methanol": ["Sporobacterium"],
+      "phloroglycinol": ["Sporobacterium", "Eubacterium"],
+      "syringate": ["Sporobacterium", "Parasporobacterium", "Sporobacter"],
+      "2,4,6-trihydroxybenzoate": ["Sporobacterium"],
+      "3,4,5-trimethoxyphenylacetate": ["Sporobacterium"],
+      "sinapate": ["Sporobacterium", "Parasporobacterium", "Sporobacter"],
+      "3,4-dimethoxycinnamate": ["Sporobacter"],
+      "3,4,5-trimethoxycinnamate": ["Sporobacterium", "Sporobacter"],
+      "crotonate": ["Sporobacterium"]
+    }
+  ],
+  "Diagnostic feature of peptidoglycan": [
+    {
+      "B-type": ["Erysipelothrix"],
+      "l-Lys": ["Erysipelothrix", "Kurthia"],
+      "A-type": ["Brochothrix", "Kurthia", "Listeria", "Corynebacterium"],
+      "meso-A2pm": ["Brochothrix", "Listeria", "Corynebacterium"]
+    }
+  ],
+  "Fatty acid type": [
+    {
+      "anteiso-C15:0": ["Bacteroides", "Prevotella", "Sporolactobacillus", "Amphibacillus", "Brevibacillus", "Paenibacillus", "Sporosarcina", "Thermoactinomyces", "Laceyella", "Mechercharimyces", "Seinonella", "Shimazuella", "Thermoflavimicrobium"],
+      "Anteiso-methyl-branched": ["Listeria", "Brochothrix", "Erysipelothrix", "Kurthia", "Lactobacillus"],
+      "C16:1 w9c ": ["Dolosigranulum"],
+      "C14:0 iso": ["Seinonella"],
+      "C18:1": ["Atopostipes"],
+      "anteiso-C18:0 ": ["Alloiococcus"],
+      "C18:1 9C": ["Marilactibacillus"],
+      "monounsaturated": ["Erysipelothrix", "Lactobacillus"],
+      "C17:0 iso": ["Thermoactinomyces", "Planifilum"],
+      "C15:0 iso": ["Porphyromonas", "Amphibacillus", "Brevibacillus", "Thermoactinomyces", "Laceyella", "Mechercharimyces", "Thermoflavimicrobium"],
+      "C16:0": ["Eikenella", "Hallella", "Amphibacillus", "Planifilum", "Allofustis", "Alkalibacterium", "Alloiococcus", "Atopostipes", "Dolosigranulum", "Marilactibacillus"],
+      "C18:1 w9c": ["Allofustis", "Alloiococcus", "Dolosigranulum"],
+      "anteiso-C17:0 ": ["Sporolactobacillus", "Planifilum"],
+      "Iso-methyl-branched": ["Listeria", "Brochothrix", "Erysipelothrix", "Kurthia"],
+      "9c 18:0 ante": ["Alkalibacterium"],
+      "C16:1 7c": ["Alkalibacterium"],
+      "C16:1": ["Mitsuokella", "Allofustis", "Atopostipes", "Dolosigranulum", "Marilactibacillus"],
+      "C14:0 ": ["Atopostipes"],
+      "C17:0 iso-wllc": ["Mechercharimyces"],
+      "C18:0": ["Allofustis", "Alkalibacterium", "Atopostipes", "Marilactibacillus"],
+      "C14:0 DMA": ["Selenomonas"],
+      "Straight-chain saturated": ["Listeria", "Brochothrix", "Erysipelothrix", "Kurthia", "Lactobacillus"],
+      "C15:0": ["Brevibacillus", "Planifilum"],
+      "variable": ["Bacillus"],
+      "C16:1 9c ": ["Alkalibacterium"],
+      "C18:2 w6 ": ["Alloiococcus"],
+      "C16:0 iso": ["Amphibacillus", "Seinonella", "Shimazuella", "Thermoflavimicrobium"]
+    }
+  ],
+  "Flagella": [
+    {
+      "1-3 peritrichous": ["Acetonema", "Dendrosporobacter"],
+      "1-6 peritrichous": ["Pelosinus"],
+      "no flagella": ["Halanaerobium"],
+      "7-10 concave side": ["Propionispora"],
+      "Peritrichous": ["Sporotalea", "Halothermothrix", "Halocella", "Halanaerobium"]
+    }
+  ],
+  "Habitat": [
+    {
+      "abscess": ["Peptostreptococcus", "Filifactor", "Anaerococcus", "Finegoldia", "Gallicola", "Helcococcus", "Micrococcus", "Peptoniphilus", "Tindallia"],
+      "lake": ["Thermoanaerobacter"],
+      "rumen of goat": ["Synergistes"],
+      "thermal vent": ["Caldanaerobacter"],
+      "oilfield": ["Fusibacter", "Caldanaerobacter", "Thermoanaerobacter"],
+      "human gingival sulcus": ["Filifactor"],
+      "Chicken intestine": ["Gallicola"],
+      "soil": ["Cryptaerobacter", "Dehalobacter", "Desulfosporosinus", "Desulfotomaculum"],
+      "thermophilic cyanobacterial mats": ["Thermoanaerovibrio"],
+      "sediment": ["Parasporobacterium", "Cryptaerobacter", "Dehalobacter", "Desulfitobacterium", "Desulfonispora", "Desulfosporosinus", "Desulfotomaculum", "Syntrophobotulus"],
+      "vagina": ["Peptostreptococcus", "Anaerococcus", "Finegoldia", "Peptoniphilus", "Tindallia", "Peptococcus"],
+      "termite (cubitermes speciosus) gut": ["Sporotomaculum"],
+      "methanogenic digester": ["Thermoanaerovibrio"],
+      "umbilicus": ["Peptococcus"],
+      "Cat skin abscess": ["Filifactor"],
+      "marine sediment": ["Desulfotomaculum"],
+      "termite gut": ["Sporobacter", "Sporotomaculum", "Sporomaculum"],
+      "anaerobic lagoon of dairy wastewater": ["Aminobacterium", "Aminomonas", "Sporobacterium"],
+      "anaerobic wool-scouring wastewater lagoon": ["Anaerobaculum"],
+      "submarine": ["Caldanaerobacter"],
+      "termite (nasutitermeslujae) gut": ["Sporobacter"],
+      "aquifer sediment": ["Desulfitobacterium"],
+      "Hydrothermal vent": ["Tepidibacter"],
+      "freshwater sediment": ["Dehalobacter", "Desulfosporosinus", "Syntrophobotulus"],
+      "petroleum reservoir fluids": ["Anaerobaculum"],
+      "hot spring": ["Ammonifex", "Thermoanaerobacter", "Thermovenabulum"],
+      "Anaerobic sludge": ["Sporanaerobacter", "Pelotomaculum", "Sporomaculum"],
+      "human intestine": ["Peptostreptococcus", "Anaerococcus", "Finegoldia", "Peptoniphilus", "Tindallia", "Peptococcus"],
+      "lake sediment": ["Desulfonispora"],
+      "saline sulfur mats": ["Dethiosulfovibrio"],
+      "terrestrial hot springs": ["Desulfotomaculum", "Thermincola"],
+      "sewage sludge": ["Cryptaerobacter", "Desulfonispora"],
+      "freshwater": ["Sedimentibacter", "Desulfotomaculum"],
+      "thermal aquifer": ["Thermanaeromonas"],
+      "eutrophic lake sediment": ["Parasporobacterium"],
+      "rumen of cattle": ["Eubacterium"],
+      "human abscess": ["Gallicola", "Helcococcus", "Micrococcus"],
+      "human oral cavity": ["Micrococcus"],
+      "otorrhea": ["Helcococcus"]
+    }
+  ],
+  "Lactic acid isomer(from glucose)": [
+    {
+      "L(+)": ["Homofermentative ovoid-shaped LAB (Enterococcus)", "Homofermentative Lactobacillus", "Carnobacterium", "Pediococcus"],
+      "D(-)": ["Leuconostoc", "Weissella", "Homofermentative Lactobacillus"],
+      "DL": ["Weissella", "Homofermentative Lactobacillus", "Heterofermentative Lactobacillus", "Pediococcus"]
+    }
+  ],
+  "Lactic acid isomer": [
+    {
+      "L": ["Carnobacterium", "Desemzia", "Isobaculum", "Heterofermentative Lactobacillus", "Homofermentative Lactobacillus", "Marinilactibacillus"],
+      "D": ["Heterofermentative Lactobacillus", "Homofermentative Lactobacillus", "Leuconostoc", "Weissella"],
+      "DL": ["Paralactobacillus", "Heterofermentative Lactobacillus", "Homofermentative Lactobacillus", "Weissella"]
+    }
+  ],
+  "Major metabolic product from PYG": [
+    {
+      "caproic acid": ["Peptostreptococcus"],
+      "acetic acid": ["Finegoldia", "Gallicola", "Helcococcus", "Micrococcus", "Peptoniphilus", "Tindallia"],
+      "lactic acid": ["Helcococcus"],
+      "butyric acid": ["Peptostreptococcus", "Anaerococcus", "Gallicola", "Peptoniphilus"]
+    }
+  ],
+  "Major peptidoglycan diamino acid": [
+    {
+      "ornithine": ["Lactobacillus"],
+      "meso-dap": ["Listeria", "Brochothrix", "Lactobacillus"],
+      "lysine": ["Lactobacillus"],
+      "l-lysine": ["Erysipelothrix", "Kurthia"]
+    }
+  ],
+  "Menaquinones": [
+    {
+      "MK-6": ["Planococcus", "Planomicrobiumb"],
+      "MK-8(hydrogenated)": ["Micrococcus"],
+      "MK-9(hydrogenated)": ["Corynebacterium", "Micrococcus"],
+      "MK-7(hydrogenated)": ["Micrococcus"],
+      "MK-7": ["Brochothrix", "Kurthia", "Listeria", "Planococcus", "Sporosarcina", "Planomicrobiumb", "Sporolactobacillus", "Bacillus", "Brevibacillus", "Paenibacillus", "Thermoactinomyces", "Laceyella", "Planifilum", "Seinonella", "Thermoflavimicrobium"],
+      "MK-8": ["Planococcus", "Planomicrobiumb", "Thermoactinomyces", "Laceyella", "Mechercharimyces", "Seinonella"],
+      "MK-10": ["Laceyella", "Seinonella", "Shimazuella"]
+    }
+  ],
+  "Metabolism": [
+    {
+      "homoacetogenic": ["Desulfosporosinus", "Desulfotomaculum"],
+      "Fermentative": ["Peptococcus", "Desulfitobacterium", "Desulfonispora", "Desulfotomaculum", "Pelotomaculum", "Sporomaculum", "Syntrophobotulus"],
+      "Respiratory (CO metabolism)": ["Thermincola"],
+      "Phenol  required for growth": ["Cryptaerobacter"],
+      "Respiratory (Fe(III) reduction)": ["Thermincola"],
+      "Respiratory (sulfite reduction)": ["Desulfitobacterium"],
+      "4-hydroxy benzoate  required for growth": ["Cryptaerobacter"],
+      "Dehalogenation": ["Desulfitobacterium"],
+      "Respiratory (dehalo respiration)": ["Dehalobacter", "Desulfitobacterium"],
+      "Respiratory (sulfate reduction)": ["Desulfosporosinus", "Desulfotomaculum"],
+      "Dechlorinates tetra- and trichloroethene": ["Dehalobacter"],
+      "syntrophy with hydrogenotrophs": ["Pelotomaculum", "Syntrophobotulus"]
+    }
+  ],
+  "Murein type": [
+    {
+      "L-Lys-direct": ["Allofustis"],
+      "L-Lys-D-Asp": ["Atopostipes"],
+      "Lys-D-Asp": ["Dolosigranulum"],
+      "Type A (Lys or Dmp or Orn)": ["Lactobacillus"],
+      "Orn-D-Asp": ["Alkalibacterium"],
+      "Type A1": ["Pseudoramibacter", "Carnobacterium"],
+      "Orn-D-Glu": ["Alkalibacterium", "Marilactibacillus"],
+      "Type B": ["Acetobacterium"]
+    }
+  ],
+  "Peptidoglycan (Pos3, bridge)": [
+    {
+      "D-Asp": ["Peptococcus", "Gallicola", "Peptostreptococcus"],
+      "Orn": ["Gallicola", "Peptoniphilus"],
+      "D-Glu": ["Anaerococcus", "Peptoniphilus"],
+      "Gly": ["Finegoldia"],
+      "Lys": ["Peptococcus", "Anaerococcus", "Finegoldia", "Parvimonas", "Peptostreptococcus"]
+    }
+  ],
+  "Peptidoglycan (Pos4, bridge)": [
+    {
+      "D-Asp": ["Gallicola"],
+      "d-Glu": ["Anaerococcus", "Peptoniphilus", "Tindallia"],
+      "Orn": ["Filifactor", "Gallicola", "Peptoniphilus", "Tindallia"],
+      "m-DAP": ["Tindallia"],
+      "d-Asp": ["Peptostreptococcus", "Filifactor", "Micrococcus"],
+      "Gly": ["Finegoldia"],
+      "Lys": ["Peptostreptococcus", "Anaerococcus", "Finegoldia", "Micrococcus"]
+    }
+  ],
+  "Peptidoglycan type": [
+    {
+      "l-Lys-d-Glu": ["Planococcus", "Planomicrobiumb"],
+      "Dpm": ["Bacteroides"],
+      "l-Lys-Gly-d-Glu": ["Sporosarcina"],
+      "Lys-Asp": ["Homofermentative ovoid-shaped LAB (Enterococcus)", "Homofermentative Lactobacillus", "Heterofermentative Lactobacillus", "Pediococcus"],
+      "mDpm": ["Mitsuokella", "Prevotella"],
+      "cross-linkage between positions 2 and 4 of two peptide subunits": ["Erysipelothrix"],
+      "LysAla/Ser": ["Leuconostoc", "Weissella"],
+      "cross-linkage between positions 3 and 4 of two peptide subunits": ["Listeria", "Brochothrix", "Kurthia", "Lactobacillus"],
+      "l-Lys-l-Ala3-4": ["Micrococcus"],
+      "2,6-diaminopimelic acid": ["Homofermentative Lactobacillus", "Carnobacterium"],
+      "l-Lys-peptide subunit": ["Micrococcus"],
+      "l-Lys-d-Asp": ["Planomicrobiumb"]
+    }
+  ],
+  "Volatile fatty acids produced in sugar-containing or sugar-free medium": [
+    {
+      "butyric acid": ["Megasphaera", "Acidaminococcus", "Anaeroglobus"],
+      "valeric acid(not constant)": ["Megasphaera"],
+      "isovaleric acid": ["Megasphaera", "Anaeroglobus"],
+      "propionic acid": ["Megasphaera", "Anaeroglobus", "Veillonella"],
+      "isobutyric acid": ["Megasphaera", "Anaeroglobus"],
+      "acetic acid": ["Megasphaera", "Acidaminococcus", "Anaeroglobus", "Veillonella"]
+    }
+  ]
+}
