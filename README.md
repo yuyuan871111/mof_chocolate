@@ -15,11 +15,48 @@
   > 3. 透過伯傑氏細菌鑑定手冊中已知的生化特性測試，自動化規劃出多菌種的分菌流程
 
 ## 專案成果
-1. 專案報告
-    > 詳細的專案報告編寫於Evernote，如下<a href="https://www.evernote.com/shard/s317/client/snv?noteGuid=15869be0-074d-44d5-a69d-ea30dff8ad35&noteKey=58348029ad89b0b1&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs317%2Fsh%2F15869be0-074d-44d5-a69d-ea30dff8ad35%2F58348029ad89b0b1&title=%253C99%253E%2B%25E5%25AF%25A6%25E7%25BF%2592%25E7%25B5%2590%25E6%259E%259C%25E5%25A0%25B1%25E5%2591%258A">網址</a>可以前往觀看。
-2. 專案成果的儀表板
-    > 如下<a href="http://120.126.47.90/MOF">網址</a>，可前往觀看。
-3. 本地端(local)的下載使用
-    > 仍在建構當中
+### 1. 專案報告
+詳細的專案報告編寫於Evernote，如下<a href="https://www.evernote.com/shard/s317/client/snv?noteGuid=15869be0-074d-44d5-a69d-ea30dff8ad35&noteKey=58348029ad89b0b1&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs317%2Fsh%2F15869be0-074d-44d5-a69d-ea30dff8ad35%2F58348029ad89b0b1&title=%253C99%253E%2B%25E5%25AF%25A6%25E7%25BF%2592%25E7%25B5%2590%25E6%259E%259C%25E5%25A0%25B1%25E5%2591%258A">網址</a>可以前往觀看。  
 
+### 2. 專案成果的儀表板
+如下<a href="http://120.126.47.90/MOF">網址</a>，可前往觀看。  
+
+### 3. 本地端(local)的下載使用  
+#### (1) Docker (單純想使用資料庫，建構時間約10分鐘） 
+請事先裝好<a href="https://git-scm.com/download/mac">git</a>以及<a href="https://www.docker.com/products/docker-desktop">docker</a>  
+
+第一步：下載  
+執行`git clone https://github.com/yuyuan871111/mof_chocolate`  
+
+第二步：建構資料庫  
+執行`docker build -t mof_chocolate_app .`  
+> FORMAT: `docker build [OPTIONS] PATH`  
+> FLAG: `-t mof_chocolate`: 程式名稱（IMAGE, 可自訂名稱） 
+  
+第三步：執行程式  
+執行`docker run -p 7421:7421 mof_chocolate_app`  
+> FORMAT: `docker run [OPTIONS] IMAGE`  
+> FLAG: `-p 7421:7421`: 轉接埠(port, 不可變更)  
+  
+第四步：使用資料庫  
+打開瀏覽器輸入`http://localhost:7421`便可以順利使用  
+
+#### (2) Conda (更改資料庫架構、外觀等等）
+請事先裝好<a href="https://git-scm.com/download/mac">git</a>以及<a href="https://docs.conda.io/en/latest/miniconda.html">miniconda</a>  
+
+第一步：下載  
+執行`git clone https://github.com/yuyuan871111/mof_chocolate`  
+執行`cd mof_chocolate`  
+
+第二步：conda環境建構（可能需要30min~1hr)  
+執行`conda env create -f mof_chocolate/env.yml`  
+
+第三步：啟動環境  
+執行`conda activate mof_build`  
+  
+第四步：啟動程式  
+執行`Rscript app.R`或使用RStudio開啟Dashboard資料夾並執行app  
+
+第五步：使用資料庫  
+打開瀏覽器輸入`http://localhost:7421`便可以順利使用  
 
